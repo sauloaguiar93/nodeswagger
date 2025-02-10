@@ -44,7 +44,3 @@ project-root/
 │── README.md
 ```
 
-## Licença
-
-Este projeto está sob a licença ISC.
-
